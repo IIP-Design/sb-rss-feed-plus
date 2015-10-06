@@ -1,0 +1,10 @@
+{
+    "name": "usstatedept/sb-rss-feed-plus",
+    "type": "wordpress-plugin",
+    "description" : "This plugin will add post thumbnail to RSS feed items. Add signatur or simple ads. Create fulltext RSS (via special url)",
+    "version": "1.4.10",
+    "minimum-stability": "stable",
+    "require": {
+       "composer/installers": "~1.0"
+    }
+}
